@@ -401,7 +401,7 @@ nav .fa-solid{
 .header-text h1{
     font-size: 30px;
 }
-nav.fas{
+nav.fa-solid{
     display: block;
     font-size: 25px;
 
@@ -425,7 +425,7 @@ nav ul li{
     margin: 25px;
 
 }
-nav ul .fas{
+nav ul .fa-solid{
 
     position: absolute;
     top: 25px;
